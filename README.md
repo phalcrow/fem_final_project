@@ -1,6 +1,6 @@
 # fem_final_project
 Repository with all shared codes for the final project of Finite Element Methods.
-The notation used in the code follows what's described in the project.pdf and in the notations.m.
+The notation used in the code follows what's described in the [Project](https://github.com/aaronmqs/fem_final_project/blob/main/project.pdf) and in the [notation](https://github.com/aaronmqs/fem_final_project/blob/main/notation.m).
 
 # What was done so far:
 
