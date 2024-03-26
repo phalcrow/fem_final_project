@@ -7,4 +7,15 @@ What was done so far:
 - [ ]  Part 1.2
   - [x] 1
   - [x] 2
-- [ ] Part 1.3  
+- [ ] Part 1.3
+- [ ] Part 1.4
+- [ ] Part 2.1
+- [ ] Part 2.2
+- [ ] Part 2.3
+- [ ] Part 2.4
+- [ ] Part 3.1
+- [ ] Part 3.2
+- [ ] Part 4
+- [ ] Part 5
+- [ ] Part 6
+- [ ] Part 7
