@@ -1,7 +1,8 @@
 # fem_final_project
 Repository with all shared codes for the final project of Finite Element Methods.
+The notation used in the code follows what's described in the project.pdf and in the notations.m.
 
-What was done so far:
+# What was done so far:
 
 - [x] Part 1
   - [x] Part 1.1
